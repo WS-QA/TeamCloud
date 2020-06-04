@@ -1,0 +1,15 @@
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Azure.Directory.deps.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Azure.Directory.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Azure.Directory.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Azure.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Http.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Azure.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\bin\Debug\netstandard2.1\TeamCloud.Http.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.sourcelink.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.AssemblyInfo.cs
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.csproj.CopyComplete
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Azure.Directory\obj\Debug\netstandard2.1\TeamCloud.Azure.Directory.pdb

@@ -1,0 +1,10 @@
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\bin\Debug\netstandard2.1\TeamCloud.Serialization.deps.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\bin\Debug\netstandard2.1\TeamCloud.Serialization.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\bin\Debug\netstandard2.1\TeamCloud.Serialization.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.sourcelink.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.AssemblyInfo.cs
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Serialization\obj\Debug\netstandard2.1\TeamCloud.Serialization.pdb

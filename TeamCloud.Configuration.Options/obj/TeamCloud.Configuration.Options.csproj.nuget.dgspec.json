@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration.Options\\TeamCloud.Configuration.Options.csproj": {}
+  },
+  "projects": {
+    "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration.Options\\TeamCloud.Configuration.Options.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration.Options\\TeamCloud.Configuration.Options.csproj",
+        "projectName": "TeamCloud.Configuration.Options",
+        "projectPath": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration.Options\\TeamCloud.Configuration.Options.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration.Options\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/teamcloud-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration\\TeamCloud.Configuration.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration\\TeamCloud.Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration\\TeamCloud.Configuration.csproj": {
+      "version": "0.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration\\TeamCloud.Configuration.csproj",
+        "projectName": "TeamCloud.Configuration",
+        "projectPath": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration\\TeamCloud.Configuration.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\TeamCloud.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\TeamCloud-0.1.240\\src\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/teamcloud-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Azure.AppConfiguration.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\.editorconfig" t="Include" />
+    <e p="C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\GlobalSuppressions.cs" t="Include" />
+    <e p="C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.API" t="IncludeRecursive">
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="ProjectsController.cs" t="Include" />
+        <e p="ProjectTagsController.cs" t="Include" />
+        <e p="ProjectTypesController.cs" t="Include" />
+        <e p="ProjectUsersController.cs" t="Include" />
+        <e p="ProvidersController.cs" t="Include" />
+        <e p="StatusController.cs" t="Include" />
+        <e p="TeamCloudController.cs" t="Include" />
+        <e p="TeamCloudTagsController.cs" t="Include" />
+        <e p="TeamCloudUsersController.cs" t="Include" />
+      </e>
+      <e p="Data" t="Include">
+        <e p="DataResult.cs" t="Include" />
+        <e p="ErrorResult.cs" t="Include" />
+        <e p="ProjectDefinition.cs" t="Include" />
+        <e p="ResultError.cs" t="Include" />
+        <e p="ReturnResult.cs" t="Include" />
+        <e p="StatusResult.cs" t="Include" />
+        <e p="UserDefinition.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Formatters" t="Include">
+        <e p="YamlInputFormatter.cs" t="Include" />
+        <e p="YamlOutputFormatter.cs" t="Include" />
+      </e>
+      <e p="GlobalSuppressions.cs" t="Include" />
+      <e p="Middleware" t="Include">
+        <e p="ClientErrorFactory.cs" t="Include" />
+        <e p="EnsureTeamCloudUser.cs" t="Include" />
+        <e p="SecurityRequirementsOperationFilter.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="TeamCloud.API.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="AzureDeploymentOptions.cs" t="Include" />
+        <e p="AzureSessionOptions.cs" t="Include" />
+        <e p="DatabaseOptions.cs" t="Include" />
+        <e p="OrchestratorOptions.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Routing" t="Include">
+        <e p="ProjectIdentifierRouteConstraint.cs" t="Include" />
+        <e p="UserIdentifierRouteConstraint.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Orchestrator.cs" t="Include" />
+        <e p="UserService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="TeamCloud.API.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.06" t="ExcludeRecursive" />
+  </component>
+</project>

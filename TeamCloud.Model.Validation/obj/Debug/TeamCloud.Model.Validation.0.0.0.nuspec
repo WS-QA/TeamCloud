@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TeamCloud.Model.Validation</id>
+    <version>0.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/microsoft/TeamCloud</projectUrl>
+    <description>...</description>
+    <copyright>Microsoft Corporation</copyright>
+    <repository type="git" url="https://github.com/microsoft/TeamCloud.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="TeamCloud.Model" version="0.0.0" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="8.6.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis" version="3.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="3.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Validation\bin\Debug\netstandard2.1\TeamCloud.Model.Validation.dll" target="lib\netstandard2.1\TeamCloud.Model.Validation.dll" />
+    <file src="C:\EUA\C_sharp_big\TeamCloud-0.1.240\LICENSE" target="LICENSE" />
+  </files>
+</package>

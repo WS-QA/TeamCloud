@@ -1,0 +1,17 @@
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\Cosmos.CRTCompat.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Data.deps.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Data.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Data.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Model.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Serialization.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Model.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\bin\Debug\netstandard2.1\TeamCloud.Serialization.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.sourcelink.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.AssemblyInfo.cs
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.csproj.CopyComplete
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Data\obj\Debug\netstandard2.1\TeamCloud.Data.pdb

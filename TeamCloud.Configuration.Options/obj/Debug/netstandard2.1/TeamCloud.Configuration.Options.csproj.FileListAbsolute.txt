@@ -1,0 +1,13 @@
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\bin\Debug\netstandard2.1\TeamCloud.Configuration.Options.deps.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\bin\Debug\netstandard2.1\TeamCloud.Configuration.Options.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\bin\Debug\netstandard2.1\TeamCloud.Configuration.Options.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\bin\Debug\netstandard2.1\TeamCloud.Configuration.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\bin\Debug\netstandard2.1\TeamCloud.Configuration.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.sourcelink.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.AssemblyInfo.cs
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.csproj.CopyComplete
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Configuration.Options\obj\Debug\netstandard2.1\TeamCloud.Configuration.Options.pdb

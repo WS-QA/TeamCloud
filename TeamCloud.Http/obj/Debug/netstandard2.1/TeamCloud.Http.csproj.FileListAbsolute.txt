@@ -1,0 +1,10 @@
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\bin\Debug\netstandard2.1\TeamCloud.Http.deps.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\bin\Debug\netstandard2.1\TeamCloud.Http.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\bin\Debug\netstandard2.1\TeamCloud.Http.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.sourcelink.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.AssemblyInfo.cs
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Http\obj\Debug\netstandard2.1\TeamCloud.Http.pdb

@@ -1,0 +1,15 @@
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Model.Internal.deps.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Model.Internal.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Model.Internal.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Model.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Serialization.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Model.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\bin\Debug\netstandard2.1\TeamCloud.Serialization.pdb
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.sourcelink.json
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.AssemblyInfo.cs
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.csproj.CopyComplete
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.dll
+C:\EUA\C_sharp_big\TeamCloud-0.1.240\src\TeamCloud.Model.Internal\obj\Debug\netstandard2.1\TeamCloud.Model.Internal.pdb
